@@ -1,0 +1,27 @@
+{
+  "name": "the-spike-mod-apk",
+  "version": "1.0.0",
+  "description": "The Spike Mod APK – Volleyball Game Download",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalil00009/the-spike-mod-apk.git"
+  },
+  "keywords": [
+    "spike",
+    "volleyball",
+    "game"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalil00009/the-spike-mod-apk/issues"
+  },
+  "homepage": "https://github.com/jalil00009/the-spike-mod-apk#readme",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
